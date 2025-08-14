@@ -55,5 +55,5 @@ dependencies {
     //noinspection GradleDependency
     implementation 'com.fasterxml.jackson.core:jackson-databind:2.12.7'
     //noinspection GradleDependency
-    implementation 'org.jetbrains.kotlin:kotlin-stdlib:1.4.21'
+
 }
